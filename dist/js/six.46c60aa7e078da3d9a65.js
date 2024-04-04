@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(){var n=document.createElement("span");n.classList.add(".hit"),document.body.appendChild(n);var e=0;document.body.onkeyup=function(t){t.code,e++,n.innerHTML=e}}()})();

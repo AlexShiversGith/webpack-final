@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(){var e=document.createElement("button");e.innerHTML="Нажми меня!",e.style.backgroundColor="red",e.style.padding="10px",e.style.color="white",document.body.appendChild(e);var n=document.createElement("span");n.classList.add(".counter"),document.body.appendChild(n);var t=0;e.addEventListener("click",(function(){t++,n.innerHTML=t}))}()})();
